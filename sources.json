@@ -1,0 +1,23 @@
+[
+  {"name": "Reuters - World", "url": "https://feeds.reuters.com/Reuters/worldNews", "type": "international"},
+  {"name": "BBC World News", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "type": "international"},
+  {"name": "Al Jazeera All News", "url": "https://www.aljazeera.com/xml/rss/all.xml", "type": "international"},
+  {"name": "France 24 - Iran", "url": "https://www.france24.com/en/tag/iran/rss", "type": "international"},
+  {"name": "Foreign Policy - Iran", "url": "https://foreignpolicy.com/tag/iran/feed", "type": "international"},
+  {"name": "ABC News - Iran", "url": "https://abcnews.go.com/alerts/iran", "type": "international"},
+  {"name": "NYTimes - Iran", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "type": "international"},
+  {"name": "Euronews - Iran", "url": "https://www.euronews.com/tag/iran/rss", "type": "international"},
+  {"name": "Radio Farda - Top Stories", "url": "https://en.radiofarda.com/api/epiqq", "type": "middleeast"},
+  {"name": "Radio Farda - Iran Analysis", "url": "https://en.radiofarda.com/feeds/rss/iran-in-depth", "type": "middleeast"},
+  {"name": "Press TV - Politics", "url": "https://www.presstv.ir/Section/10101/rss.xml", "type": "middleeast"},
+  {"name": "IRNA - English", "url": "https://en.irna.ir/rss", "type": "iran"},
+  {"name": "Mehr News - Latest", "url": "https://en.mehrnews.com/rss", "type": "iran"},
+  {"name": "Iran Front Page (IFP)", "url": "https://ifpnews.com/feed/", "type": "iran"},
+  {"name": "Iran News Daily", "url": "http://irannewsdaily.com/feed", "type": "iran"},
+  {"name": "Iran Herald", "url": "https://feeds.iranherald.com/rss/1b78", "type": "iran"},
+  {"name": "Tehran Times", "url": "https://www.tehrantimes.com/service/politics?rss=1", "type": "iran"},
+  {"name": "YJC Iran News", "url": "https://www.yjc.ir/fa/rss/allnews", "type": "iran"},
+  {"name": "ISNA News (波斯语)", "url": "https://www.isna.ir/rss", "type": "iran"},
+  {"name": "Tabnak Iran RSS", "url": "https://www.tabnak.ir/fa/rss/allnews", "type": "iran"},
+  {"name": "Khabaronline RSS", "url": "https://www.khabaronline.ir/rss", "type": "iran"}
+]
